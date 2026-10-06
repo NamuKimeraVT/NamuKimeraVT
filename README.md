@@ -6,17 +6,21 @@ I am a multidisciplinary VTuber specializing in digital illustration, concept ar
 
 🌱 I’m currently learning:
 
-Capacitor
-ElectronJS
-FL Studio
-Live2D
-Substance 3D Designer
-Substance 3D Painter
-Toon Boom Harmony
+- FL Studio
+- Live2D
+- Substance 3D Designer
+- Substance 3D Painter
+- Toon Boom Harmony
+
 📫 How to reach me: (Namuquimera@gmail.com)
 
-YouTube Channel
-Courses Namu Project
+😄 Pronouns:
+
+- he
+- him
+
+## [YouTube Channel](https://www.youtube.com/channel/UC1dlYz5mq8Rai8eLq1aN7Gg)
+## [Courses Namu Project](https://docs.google.com/spreadsheets/d/1V0nh4qQU984kpncfA-F1VG295ANS2HKlFIjLGn-LIsw/edit?gid=716934599#gid=716934599)
 
 <!--
 **NamuKimeraVT/NamuKimeraVT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
